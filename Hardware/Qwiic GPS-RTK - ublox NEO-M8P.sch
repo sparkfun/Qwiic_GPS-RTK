@@ -11682,7 +11682,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="208.28" y="165.1" size="1.778" layer="97">Cut JP5 to remove 
 I2C pullups from bus</text>
 <text x="19.558" y="73.914" size="1.778" layer="97">Cut jumper to 
-disable PPS LED</text>
+disable LED</text>
 <text x="198.12" y="121.92" size="1.778" layer="97">Close Jumper to
 enable SPI</text>
 <text x="88.392" y="147.32" size="1.778" layer="97">CI160808-33NJ</text>
