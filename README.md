@@ -21,8 +21,8 @@ Documentation
 
 Product Versions
 ----------------
-* [ROB-13166](https://www.sparkfun.com/products/13166) - Basic RedBot Kit
-* [ROB-12649](https://www.sparkfun.com/products/12649) - RedBot Experiment Kit
+* [GPS-15005](https://www.sparkfun.com/products/15005) - SparkFun Red
+* [SPX-14980](https://www.sparkfun.com/products/14980) - SparkX Black
 
 License Information
 -------------------
