@@ -21,8 +21,8 @@ Documentation
 
 Product Versions
 ----------------
-* [ROB-13166](https://www.sparkfun.com/products/13166)- Basic RedBot Kit
-* [ROB-12649](https://www.sparkfun.com/products/12649)- RedBot Experiment Kit
+* [ROB-13166](https://www.sparkfun.com/products/13166) - Basic RedBot Kit
+* [ROB-12649](https://www.sparkfun.com/products/12649) - RedBot Experiment Kit
 
 License Information
 -------------------
